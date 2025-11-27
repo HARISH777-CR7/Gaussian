@@ -9,9 +9,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1. FIRST IMPORT NUMPY USING import numpy as np
-2. 
-3. 
-4. 
+2. NEXT IMPORT SYS USING import sys
+3. GET THE VALUE FROM THE USER AND CREATE A DATA FRAME
+4. TYPPE THE CODE AND DISPLAY THE RESULT 
 
 ## Program:
 ```
